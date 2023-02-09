@@ -1,6 +1,6 @@
 # TAREA 2 - MÓDULO 2
 
-##Integrantes del equipo:
+## Integrantes del equipo:
 
 - Julian Jimenez
 - July Torres
